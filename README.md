@@ -1,5 +1,3 @@
-# Atomcamp
-
 # Data Bank SQL Portfolio Project
 
 ## Overview
